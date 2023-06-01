@@ -1,1 +1,1 @@
-A MCreator mod for the Create: Peace of Mimd modpack because KubeJS is too taxing.
+A MCreator-built core mod for the Create: Peace of Mind modpack because KubeJS is too taxing.
